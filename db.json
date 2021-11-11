@@ -13,7 +13,8 @@
       "dream": "Being the next Pirate King",
       "organization": "Pirates",
       "status": "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+      "url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy",
+      "img": "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/luffy.jpg"
     },
     {
       "id": 1,
@@ -26,7 +27,8 @@
       "dream": "Being the greatest Swordsman in the world",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+      "url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/zoro.jpg"
     },
     {
       "id": 2,
@@ -39,7 +41,8 @@
       "dream": "Making a map of the entire world",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Nami"
+      "url": "https://onepiece.fandom.com/wiki/Nami",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/nami.jpg"
     },
     {
       "id": 3,
@@ -52,7 +55,8 @@
       "dream": "Become a brave warrior of the sea",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Usopp"
+      "url": "https://onepiece.fandom.com/wiki/Usopp",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/usopp.jpg"
     },
     {
       "id": 4,
@@ -65,7 +69,8 @@
       "dream": "Find the rumored chef's paradise, All Blue",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Sanji"
+      "url": "https://onepiece.fandom.com/wiki/Sanji",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/sanji.jpg"
     },
     {
       "id": 5,
@@ -80,7 +85,8 @@
       "dream": "Become a doctor capable of curing any disease",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+      "url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/chopper.jpg"
     },
     {
       "id": 6,
@@ -95,7 +101,8 @@
       "dream": "Find the Rio Poneglyph which tells the true history of the world, specifically the Void Century",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+      "url": "https://onepiece.fandom.com/wiki/Nico_Robin",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/robin.jpg"
     },
     {
       "id": 7,
@@ -108,7 +115,8 @@
       "dream": "Create a ship and circumnavigate the world with it",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Franky"
+      "url": "https://onepiece.fandom.com/wiki/Franky",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/franky.jpg"
     },
     {
       "id": 8,
@@ -123,7 +131,8 @@
       "dream": "Reunite with his old friend, Laboon, at Reverser Mountain",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Brook"
+      "url": "https://onepiece.fandom.com/wiki/Brook",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/brook.jpg"
     },
     {
       "id": 9,
@@ -136,7 +145,8 @@
       "dream": "Fulfill his former captain Fisher Tiger's dying wish of coexistence and equality between humans and fish-men",
       "organization": "Pirates",
       "status":  "Alive",
-      "url": "https://onepiece.fandom.com/wiki/Jinbe"
+      "url": "https://onepiece.fandom.com/wiki/Jinbe",
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/jimbei.jpg"
     }
   ]
 }
