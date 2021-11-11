@@ -40,6 +40,47 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Nami"
+    },
+    {
+      "id": 3,
+      "name": "Usopp",
+      "birthday": "April 1st",
+      "origin": "East Blue",
+      "ship": "Thousand Sunny",
+      "reward": "200,000,000",
+      "alias": ["Sogeking", "God Usopp"],
+      "dream": "Become a brave warrior of the sea",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Usopp"
+    },
+    {
+      "id": 4,
+      "name": "Sanji",
+      "birthday": "March 2nd",
+      "origin": "North Blue",
+      "ship": "Thousand Sunny",
+      "reward": "330,000,000",
+      "alias": ["Mr. Prince", "Sangoro", "Osoba-mask", "Kuro Ashi", "Black Leg"],
+      "dream": "Find the rumored chef's paradise, All Blue",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Sanji"
+    },
+    {
+      "id": 5,
+      "name": "Tony Tony Chopper",
+      "birthday": "December 24th",
+      "origin": "Grand Line",
+      "akumaNoMi": "Hito Hito no Mi",
+      "akumaNoMiType": "Zoan",
+      "ship": "Thousand Sunny",
+      "reward": "100",
+      "alias": ["Chopa-emon", "Cotton Candy Lover"],
+      "dream": "Become a doctor capable of curing any disease",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
     }
   ]
 }
