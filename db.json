@@ -15,7 +15,7 @@
       "organization": "Pirates",
       "status": "Alive",
       "url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy",
-      "img": "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/luffy.jpg"
+      "img": "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 1,
@@ -30,7 +30,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/zoro.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 2,
@@ -44,7 +44,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Nami",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/nami.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 3,
@@ -58,7 +58,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Usopp",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/usopp.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Sanji",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/sanji.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 5,
@@ -90,7 +90,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/chopper.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 6,
@@ -107,7 +107,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Nico_Robin",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/robin.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 7,
@@ -122,7 +122,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Franky",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/franky.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 8,
@@ -138,7 +138,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Brook",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/brook.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     },
     {
       "id": 9,
@@ -152,7 +152,7 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Jinbe",
-      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/jimbei.jpg"
+      "img":  "https://github.com/CarlosCocaGlez/onePiece-api/blob/master/images/"
     }
   ]
 }
