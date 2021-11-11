@@ -3,6 +3,7 @@
     {
       "id": 0,
       "name": "Luffy",
+      "fullName": "Monkey D. Luffy",
       "birthday": "May 5th",
       "origin": "East Blue",
       "akumaNoMi": "Gomu Gomu no Mi",
@@ -19,6 +20,7 @@
     {
       "id": 1,
       "name": "Zoro",
+      "fullName": "Roronoa Zoro",
       "birthday": "Nov 11th",
       "origin": "East Blue",
       "ship": "Thousand Sunny",
@@ -61,6 +63,7 @@
     {
       "id": 4,
       "name": "Sanji",
+      "fullName": "Vinsmoke Sanji",
       "birthday": "March 2nd",
       "origin": "North Blue",
       "ship": "Thousand Sunny",
@@ -75,6 +78,7 @@
     {
       "id": 5,
       "name": "Chopper",
+      "fullName": "Tony Tony Chopper",
       "birthday": "December 24th",
       "origin": "Grand Line",
       "akumaNoMi": "Hito Hito no Mi",
@@ -90,7 +94,8 @@
     },
     {
       "id": 6,
-      "name": "Nico Robin",
+      "name": "Robin",
+      "fullName": "Nico Robin",
       "birthday": "February 6th",
       "origin": "West Blue",
       "akumaNoMi": "Hana Hana no Mi",
@@ -107,6 +112,7 @@
     {
       "id": 7,
       "name": "Franky",
+      "fullName": "Cutty Flam",
       "birthday": "March 9th",
       "origin": "South Blue",
       "ship": "Thousand Sunny",
