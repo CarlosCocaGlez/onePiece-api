@@ -81,6 +81,62 @@
       "organization": "Pirates",
       "status":  "Alive",
       "url": "https://onepiece.fandom.com/wiki/Tony_Tony_Chopper"
+    },
+    {
+      "id": 6,
+      "name": "Nico Robin",
+      "birthday": "February 6th",
+      "origin": "West Blue",
+      "akumaNoMi": "Hana Hana no Mi",
+      "akumaNoMiType": "Paramecia",
+      "ship": "Thousand Sunny",
+      "reward": "130,000,000",
+      "alias": ["Miss All Sunday", "O-Robi", "Devil Child"],
+      "dream": "Find the Rio Poneglyph which tells the true history of the world, specifically the Void Century",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Nico_Robin"
+    },
+    {
+      "id": 7,
+      "name": "Franky",
+      "birthday": "March 9th",
+      "origin": "South Blue",
+      "ship": "Thousand Sunny",
+      "reward": "94,000,000",
+      "alias": ["Fra-nosuke", "Iron Man", "Cyborg"],
+      "dream": "Create a ship and circumnavigate the world with it",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Franky"
+    },
+    {
+      "id": 8,
+      "name": "Brook",
+      "birthday": "April 3rd",
+      "origin": "West Blue",
+      "akumaNoMi": "Yomi Yomi no Mi",
+      "akumaNoMiType": "Paramecia",
+      "ship": "Thousand Sunny",
+      "reward": "83,000,000",
+      "alias": ["Hone-kichi", "The Starving Skeleton", "Hanauta no Brook", "Soul King1"],
+      "dream": "Reunite with his old friend, Laboon, at Reverser Mountain",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Brook"
+    },
+    {
+      "id": 9,
+      "name": "Jimbei",
+      "birthday": "April 2nd",
+      "origin": "Gran Line (Fish-Man Island)",
+      "ship": "Thousand Sunny",
+      "reward": "438,000,000",
+      "alias": ["Knight of the Sea", "First Son of the Sea"],
+      "dream": "Fulfill his former captain Fisher Tiger's dying wish of coexistence and equality between humans and fish-men",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Jinbe"
     }
   ]
 }
