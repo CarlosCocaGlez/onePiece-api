@@ -1,0 +1,45 @@
+{
+  "onePiece": [
+    {
+      "id": 0,
+      "name": "Luffy",
+      "birthday": "May 5th",
+      "origin": "East Blue",
+      "akumaNoMi": "Gomu Gomu no Mi",
+      "akumaNoMiType": "Paramecia",
+      "ship": "Thousand Sunny",
+      "reward": "1,500,000,000",
+      "alias": ["Mugiwara no Luffy", "Straw Hat Luffy", "Lucy", "Luffy-tarou"],
+      "dream": "Being the next Pirate King",
+      "organization": "Pirates",
+      "status": "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": 1,
+      "name": "Zoro",
+      "birthday": "Nov 11th",
+      "origin": "East Blue",
+      "ship": "Thousand Sunny",
+      "reward": "320,000,000",
+      "alias": ["Pirate Hunter", "Zoro-juurou"],
+      "dream": "Being the greatest Swordsman in the world",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+    },
+    {
+      "id": 2,
+      "name": "Nami",
+      "birthday": "July 3rd",
+      "origin": "East Blue",
+      "ship": "Thousand Sunny",
+      "reward": "66,000,000",
+      "alias": ["Cat Burglar", "Namizo", "O-Nami"],
+      "dream": "Making a map of the entire world",
+      "organization": "Pirates",
+      "status":  "Alive",
+      "url": "https://onepiece.fandom.com/wiki/Nami"
+    }
+  ]
+}
