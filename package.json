@@ -1,0 +1,23 @@
+{
+  "name": "onepiece",
+  "version": "1.0.0",
+  "description": "This is the first version of an API of the organization, abilities and dreams of one piece characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosCocaGlez/onePiece-api.git"
+  },
+  "author": "Charles Layet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosCocaGlez/onePiece-api/issues"
+  },
+  "homepage": "https://github.com/CarlosCocaGlez/onePiece-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
