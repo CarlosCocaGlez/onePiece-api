@@ -574,18 +574,6 @@
       "alive": true,
       "image": "http://hp-api.herokuapp.com/images/filch.jpg",
       "favorite": false
-    },
-    {
-      "id": "545250fa-9863-400b-aa1b-519364461360",
-      "name": "que preguntas",
-      "gender": "Hombre",
-      "dateOfBirth": "ni te importa",
-      "eyeColour": "telocico",
-      "hairColour": "jajaaj",
-      "hogwartsStudent": true,
-      "hogwartsStaff": false,
-      "image": "http://hp-api.herokuapp.com/images/harry.jpg",
-      "favorite": false
     }
   ]
 }
